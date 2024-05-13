@@ -1,0 +1,5 @@
+webdriver
+temp
+**/__pycache__
+env
+.env
